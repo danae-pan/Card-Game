@@ -1,0 +1,29 @@
+
+{
+  "cardBack": "assets/front.png",
+  "cards": [
+    { "id": "arm", "image": "assets/arm.png" },
+    { "id": "basin", "image": "assets/basin.png" },
+    { "id": "bolt", "image": "assets/bolt.png" },
+    { "id": "chick", "image": "assets/chick.png" },
+    { "id": "cloth", "image": "assets/cloth.png" },
+    { "id": "cobra", "image": "assets/cobra.png" },
+    { "id": "cup", "image": "assets/cup.png" },
+    { "id": "feather", "image": "assets/feather.png" },
+    { "id": "feathers", "image": "assets/feathers.png" },
+    { "id": "hand", "image": "assets/hand.png" },
+    { "id": "hill", "image": "assets/hill.png" },
+    { "id": "leg", "image": "assets/leg.png" },
+    { "id": "lion", "image": "assets/lion.png" },
+    { "id": "loaf", "image": "assets/loaf.png" },
+    { "id": "mouth", "image": "assets/mouth.png" },
+    { "id": "owl", "image": "assets/owl.png" },
+    { "id": "sieve", "image": "assets/sieve.png" },
+    { "id": "stool", "image": "assets/stool.png" },
+    { "id": "tether", "image": "assets/tether.png" },
+    { "id": "viper", "image": "assets/viper.png" },
+    { "id": "vulture", "image": "assets/vulture.png" },
+    { "id": "water", "image": "assets/water.png" },
+    { "id": "wick", "image": "assets/wick.png" }
+  ]
+}

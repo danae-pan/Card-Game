@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Egyptian Matching Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Egyptian Memory Card Game</h1>
+
+
+    <div class="difficulty-container">
+        <label for="difficulty">Choose Difficulty:</label>
+
+        <select id="difficulty">
+            <option value="6">Easy</option>
+            <option value="12" selected>Default</option>
+            <option value="23">Hard</option>
+        </select>
+    </div>
+
+
+    <div class="game-info">
+        <p>Moves: <span id="moves">0</span></p>
+        <p>Matches: <span id="matches">0</span></p>
+    </div>
+
+    <div id="game-board" class="game-board"></div>
+
+    <p id="message"></p>
+
+    <button id="restart">Restart Game</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
